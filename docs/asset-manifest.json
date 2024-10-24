@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/kaizen-lms-demo/static/css/main.c8489417.css",
+    "main.js": "/kaizen-lms-demo/static/js/main.5c187f0c.js",
+    "static/media/kaizen_logo_color.png": "/kaizen-lms-demo/static/media/kaizen_logo_color.84c32f85b142ea000c99.png",
+    "index.html": "/kaizen-lms-demo/index.html",
+    "main.c8489417.css.map": "/kaizen-lms-demo/static/css/main.c8489417.css.map",
+    "main.5c187f0c.js.map": "/kaizen-lms-demo/static/js/main.5c187f0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8489417.css",
+    "static/js/main.5c187f0c.js"
+  ]
+}
